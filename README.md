@@ -15,8 +15,6 @@ Atau mulai belajar Git dari awal:
 - [Tutorial Git 07 - Percabangan](https://www.petanikode.com/git-branch/)
 - [Tutorial Git 08 - Perbedaan Git Checkout, Git Reset, dan Git Revert](https://www.petanikode.com/git-checkout-reset-revert/)
 - Tutorial Git 09 - Menulis Ulang Sejarah
-- [Tutorial Git 10 - Menggunakan Git Fetch dan Git Pull](https://www.petanikode.com/git-pull-fetch/)
-
 ...
 - [Cara Berkontribusi pada Proyek Open Source di Github](https://www.petanikode.com/github-workflow/)
 
